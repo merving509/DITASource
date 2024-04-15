@@ -4,4 +4,7 @@
     <booktitle>
         <mainbooktitle>Sample Book Map</mainbooktitle>
     </booktitle>
+    <chapter href="../TopicTree/TestTopic1.dita">
+        <topicref href="../DITAMap/TestMap.ditamap" format="ditamap"/>
+    </chapter>
 </bookmap>
