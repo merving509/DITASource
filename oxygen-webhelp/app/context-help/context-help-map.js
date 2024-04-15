@@ -1,1 +1,0 @@
-define(function() { return [{"appname":"", "appid":"TestTopic1", "path":"oxy_ex-1/TopicTree/TestTopic1.html"}]});
